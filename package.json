@@ -1,9 +1,10 @@
 {
-  "name": "express-generator",
-  "description": "Express' application generator",
-  "version": "4.16.1",
-  "author": "TJ Holowaychuk <tj@vision-media.ca>",
+  "name": "ba-generator",
+  "description": "D2D's NextGenTV broadcast application generator",
+  "version": "0.0.0",
+  "author": "Matt Graham <mattscraftcomputing@gmail.com>",
   "contributors": [
+    "TJ Holowaychuk <tj@vision-media.ca>",
     "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
     "Ciaran Jessup <ciaranj@gmail.com>",
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
@@ -13,16 +14,14 @@
   ],
   "keywords": [
     "express",
-    "framework",
-    "sinatra",
-    "web",
-    "rest",
-    "restful",
-    "router",
     "app",
-    "api"
+    "api",
+    "nextgentv",
+    "atsc3",
+    "openba",
+    "broadcast"
   ],
-  "repository": "expressjs/generator",
+  "repository": "mgatc/generator",
   "license": "MIT",
   "dependencies": {
     "ejs": "2.6.2",

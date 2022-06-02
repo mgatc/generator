@@ -1,0 +1,3 @@
+[submodule "templates/d2d-openba"]
+	path = templates/d2d-openba
+	url = https://github.com/mgatc/d2d-openba.git
